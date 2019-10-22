@@ -20,6 +20,6 @@ TODO: how to deploy the project
  - Madison Hazard
  - Max Lata
  - Raphael Preston
- - Mike Zho
+ - Mike Zhu
 
 ## Acknowledgments
