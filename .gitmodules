@@ -1,9 +1,12 @@
 [submodule "native"]
 	path = native
 	url = https://github.com/dartmouth-cs98/19f-pantry-native
+	branch = master
 [submodule "server"]
 	path = server
 	url = https://github.com/dartmouth-cs98/19f-pantry-server
+	branch = master
 [submodule "web"]
 	path = web
 	url = https://github.com/dartmouth-cs98/19f-pantry-web
+	branch = master
