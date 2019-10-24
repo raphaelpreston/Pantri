@@ -7,6 +7,9 @@ TODO: super short project description, some sample screenshots or mockups that y
 
 ## Setup
 
+### Working with Submodules
+1. Git clone using SSH
+2. If you're having troubles on Windows
 TODO: how to get the project dev environment up and running, npm install etc, all necessary commands needed, environment variables etc
 
 ## Deployment
