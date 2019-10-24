@@ -45,7 +45,7 @@ Changes not staged for commit:
 
 	modified:   SUBMODULE_PATH (new commits)
 ```
-Just git add, commit, and push it. (The submodule path can be found in .gitmodules)
+Just git add, commit, and push it (the submodule path can be found in .gitmodules). Anyone who has updated their submodules according to the instructions above can do this. In the grand scheme of themes the main repo's pointers being out of date doesn't actually affect anything.
 ```
 git add <SUBMODULE_PATH>
 git commit -m "submodule <SUBMODULE_PATH> updated"
