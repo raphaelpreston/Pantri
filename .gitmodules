@@ -10,3 +10,7 @@
 	path = web
 	url = https://github.com/dartmouth-cs98/19f-pantry-web
 	branch = master
+[submodule "voice"]
+	path = voice
+	url = https://github.com/dartmouth-cs98/19f-pantry-voice
+	branch = master

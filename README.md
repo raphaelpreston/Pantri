@@ -31,7 +31,7 @@ Great! Your submodules should be perfectly setup now.
 #### Submodule updating
 Use case: A teammate updated a repository, and your local should be up to date.
 ```
-git pull
+git pull --rebase
 git submodule update --remote --rebase
 ```
 This rewinds your local head back on each submodule and applies each commit sequentially in the order they were committed.
@@ -51,6 +51,15 @@ git add <SUBMODULE_PATH>
 git commit -m "submodule <SUBMODULE_PATH> updated"
 git push
 ```
+
+#### Creating a new submodule
+First, create the new repository with all the appropriate settings, permissions, etc.
+Then, in the __main__ repository:
+```
+git submodule add -b master <REPOSITORY_URL> <PATH>
+git submodule update --remote --rebase
+```
+Make sure the new repo is not in a _detached HEAD_ state.
 
 ## Deployment
 
