@@ -65,6 +65,9 @@ Make sure the new repo is not in a _detached HEAD_ state.
 
 TODO: how to deploy the project
 
+## User-Configurable Settings
+- Range for item to be considered "expiring soon"
+
 ## Authors
 
  - Stephen Crowe
