@@ -67,6 +67,7 @@ TODO: how to deploy the project
 
 ## User-Configurable Settings
 - Range for item to be considered "expiring soon"
+- Disable specific auto-tagging
 
 ## Authors
 
