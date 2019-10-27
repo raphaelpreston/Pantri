@@ -130,3 +130,8 @@ node_modules
 
 # Yarn
 yarn.lock
+yarn-error.log
+
+# Npm
+npm-debug.log
+package-lock.json
