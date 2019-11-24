@@ -1,6 +1,7 @@
 # Pantri
 
-TODO: super short project description, some sample screenshots or mockups that you keep up-to-date.
+Pantri is an app which enables users to easily keep track of the items in their pantry and fridge, so when they shop, they know exactly how much to buy.
+TODO: sample screenshots
 
 ## Architecture
 [<img src="https://docs.google.com/drawings/d/e/2PACX-1vRoPN0yBtnrPnrU0m25f1EqlxoNF3XG4B0rmVfVPnELtxN5OAdUKHyjqEkI8GzrEhgoiVCSDRUjnDfd/pub?w=1350&amp;h=700">](https://docs.google.com/drawings/d/1fx1nooEFF1EThIcaz7oLuxJ-Xyhhrd2AMjO_ypzqe7U/edit?usp=sharing)
@@ -9,9 +10,8 @@ TODO: super short project description, some sample screenshots or mockups that y
 
 1. Clone this repo
 2. Setup submodules (see below)
-3. TODO
 
-TODO: how to get the project dev environment up and running, npm install etc, all necessary commands needed, environment variables etc
+For additional setup please see the submodule READMEs, as there is specific information for setting up each repository.
 
 ### Working with git submodules
 Why submodules? As per this [article](https://gist.github.com/gitaarik/8735255), a submodule "is basically a repository embedded in your __main__ repository." Specifically, submodules point to commits on a separate repository, and the commit versions need to be managed. The following sections will outline how this flow works. (All commands below should be run in the __main__ repository)
@@ -63,7 +63,7 @@ Make sure the new repo is not in a _detached HEAD_ state.
 
 ## Deployment
 
-TODO: how to deploy the project
+At the moment we are not deploying the app. In the future we would like to publish on the Apple App store and Google Play store. For now, we are exclusivly demoing locally.
 
 ## User-Configurable Settings
 - Range for item to be considered "expiring soon"
