@@ -1,7 +1,10 @@
 # Pantri
 
 Pantri is an app which enables users to easily keep track of the items in their pantry and fridge, so when they shop, they know exactly how much to buy.
-TODO: sample screenshots
+
+<img src="resources/19F_login_screenshot.png" alt="login" width="200">
+<img src="resources/19F_main_screenshot.png" alt="main" width="200">
+<img src="resources/19F_listview_screenshot.png" alt="listview" width="200">
 
 ## Architecture
 [<img src="https://docs.google.com/drawings/d/e/2PACX-1vRoPN0yBtnrPnrU0m25f1EqlxoNF3XG4B0rmVfVPnELtxN5OAdUKHyjqEkI8GzrEhgoiVCSDRUjnDfd/pub?w=1350&amp;h=700">](https://docs.google.com/drawings/d/1fx1nooEFF1EThIcaz7oLuxJ-Xyhhrd2AMjO_ypzqe7U/edit?usp=sharing)
