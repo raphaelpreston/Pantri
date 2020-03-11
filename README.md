@@ -2,9 +2,9 @@
 
 Pantri is an app which enables users to easily keep track of the items in their pantry and fridge, so when they shop, they know exactly how much to buy.
 
-<img src="resources/19F_login_screenshot.png" alt="login" width="200">
-<img src="resources/19F_main_screenshot.png" alt="main" width="200">
-<img src="resources/19F_listview_screenshot.png" alt="listview" width="200">
+<img src="resources/20W_login_screenshot.png" alt="login" width="200">
+<img src="resources/20W_listview_screenshot.png" alt="listview" width="200">
+<img src="resources/20W_add_screenshot.png" alt="add" width="200">
 
 ## Architecture
 [<img src="https://docs.google.com/drawings/d/e/2PACX-1vRoPN0yBtnrPnrU0m25f1EqlxoNF3XG4B0rmVfVPnELtxN5OAdUKHyjqEkI8GzrEhgoiVCSDRUjnDfd/pub?w=1350&amp;h=700">](https://docs.google.com/drawings/d/1fx1nooEFF1EThIcaz7oLuxJ-Xyhhrd2AMjO_ypzqe7U/edit?usp=sharing)
@@ -68,10 +68,6 @@ Make sure the new repo is not in a _detached HEAD_ state.
 
 At the moment we are not deploying the app. In the future we would like to publish on the Apple App store and Google Play store. For now, we are exclusivly demoing locally.
 
-## User-Configurable Settings
-- Range for item to be considered "expiring soon"
-- Disable specific auto-tagging
-
 ## Authors
 
  - Stephen Crowe
@@ -84,3 +80,4 @@ At the moment we are not deploying the app. In the future we would like to publi
 
 - [Initial git submodule article](https://gist.github.com/gitaarik/8735255)
 - [Detailed git submodule usage](https://medium.com/fiverr-engineering/working-with-git-submodules-ec6210801e07)
+- Thanks to Prof. Tim Tregubov for his guidance during the work on this project!
